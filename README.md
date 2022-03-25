@@ -1,7 +1,7 @@
 # Horiseon Refactor 
 ## Description 
 
-I was given a website and was instructed to improve the existing code. I did this by intiale assesing the code and identifying what was not properly done. In the process I noticed that there were not many Semantic html elements in places where they can be utilized. In addiiton, the heading documents were out of chronoical order. Furthermore, there were not alt attributes after many of the images. I added these alt attributes and wrote a descriptive. 
+I was given a website and was instructed to improve the existing code. I did this by intitially assesing the code and identifying what was not properly done. In the process I noticed that there were not many Semantic html elements in places where they can be utilized. In addiiton, the heading documents were out of chronoical order. Furthermore, there were not alt attributes after many of the images. I added these alt attributes and wrote a descriptive. 
 
 
 ```
